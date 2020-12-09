@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="get_your_fib">Get Your Fib #</string>
+    <string name="fibJR">JR</string>
+    <string name="fibNR">NR</string>
+    <string name="fibJI">JI</string>
+    <string name="fibNI">NI</string>
+    <string name="button">Get Your Fib # Button</string>
+    <string name="output">Results here</string>
+
+</resources>
